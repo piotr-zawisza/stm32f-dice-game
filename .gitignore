@@ -1,0 +1,16 @@
+# Output
+Debug/
+Release/
+
+# Local IDE config
+.settings/
+.launches/
+*.launch
+
+# Temporary files of CubeMX
+.mxproject
+Backup/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
