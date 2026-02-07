@@ -1,0 +1,9 @@
+../Core/Src/dice.c:21:6:Dice_Init	24	static
+../Core/Src/dice.c:33:6:Dice_SetValue	16	static
+../Core/Src/dice.c:38:13:DrawDot	24	static
+../Core/Src/dice.c:43:6:DrawLifeIndicator	40	static
+../Core/Src/dice.c:71:6:Dice_Draw	40	static
+../Core/Src/dice.c:117:6:Dice_UpdateLogic	48	static
+../Core/Src/dice.c:150:6:Dice_DrawLogic	24	static
+../Core/Src/dice.c:159:6:Dice_RestoreOrigin	24	static
+../Core/Src/dice.c:167:15:Dice_CalculateScore	64	static

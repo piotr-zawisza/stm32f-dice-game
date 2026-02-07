@@ -1,0 +1,2 @@
+../Core/Src/crc_drv.c:10:10:CRC_Calculate	16	static
+../Core/Src/crc_drv.c:14:9:CRC_CheckData	24	static

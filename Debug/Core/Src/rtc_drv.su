@@ -1,0 +1,3 @@
+../Core/Src/rtc_drv.c:12:6:RTC_SetTime	40	static
+../Core/Src/rtc_drv.c:23:6:RTC_SetDate	32	static
+../Core/Src/rtc_drv.c:33:6:RTC_GetTimeStr	48	static
