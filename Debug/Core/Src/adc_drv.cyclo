@@ -1,3 +1,0 @@
-../Core/Src/adc_drv.c:12:10:ADC_GetRawValue	3
-../Core/Src/adc_drv.c:27:7:ADC_GetVoltage	1
-../Core/Src/adc_drv.c:32:9:ADC_GetPercentage	1

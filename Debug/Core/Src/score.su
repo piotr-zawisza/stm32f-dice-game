@@ -1,4 +1,0 @@
-../Core/Src/score.c:21:6:UpdateHighScore	24	static
-../Core/Src/score.c:30:9:IsHighScoreValid	24	static
-../Core/Src/score.c:39:6:Score_SaveToBackup	8	static
-../Core/Src/score.c:47:6:Score_LoadFromBackup	8	static
