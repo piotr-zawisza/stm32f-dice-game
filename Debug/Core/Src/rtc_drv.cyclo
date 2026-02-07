@@ -1,3 +1,0 @@
-../Core/Src/rtc_drv.c:12:6:RTC_SetTime	1
-../Core/Src/rtc_drv.c:23:6:RTC_SetDate	1
-../Core/Src/rtc_drv.c:33:6:RTC_GetTimeStr	1

@@ -1,4 +1,0 @@
-../Core/Src/animation.c:18:6:Video_Init	8	static
-../Core/Src/animation.c:37:6:SwapBuffers	16	static
-../Core/Src/animation.c:60:6:Anim_Run	32	static
-../Core/Src/animation.c:75:6:HAL_LTDC_LineEventCallback	16	static

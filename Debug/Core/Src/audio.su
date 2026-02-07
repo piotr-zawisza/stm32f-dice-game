@@ -1,5 +1,0 @@
-../Core/Src/audio.c:23:6:Audio_Init	16	static
-../Core/Src/audio.c:28:13:_Audio_SetFrequency	24	static
-../Core/Src/audio.c:42:6:Audio_Tick	16	static
-../Core/Src/audio.c:84:6:Audio_PlayTone	16	static
-../Core/Src/audio.c:98:6:Audio_Play	16	static
